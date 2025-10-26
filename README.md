@@ -28,12 +28,6 @@
 
 サンプルコードの解説は本書籍をご覧ください。
 
-> [!NOTE]
-> Google Colabのランタイムバージョンは、Colabのメニューから `ランタイムタイプを変更` を選択すると変更可能です。
-> 次のように `2025.07` が選択されていれば、日本語版の翻訳時点に比較的近い環境でコードを実行可能です。
-> ![ランタイムタイプの変更画面](colab_runtime.png)
-> 
-
 ## Google Colabで開く
 
 |章                                          |ノートブック |
@@ -48,6 +42,13 @@
 |8章　テキストから画像生成モデルの創造的応用 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-generative-ai-ja/blob/main/notebooks/08_creative_applications_of_t2i.ipynb) |
 |9章　音声の生成                             |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-generative-ai-ja/blob/main/notebooks/09_generating_audio.ipynb) |
 |付録C　RAG（検索拡張生成）                  |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oreilly-japan/hands-on-generative-ai-ja/blob/main/notebooks/13_rag.ipynb) |
+
+> [!NOTE]
+> Google Colabのランタイムバージョンは、Colabのメニューから `ランタイムタイプを変更` を選択すると変更可能です。
+> 次のように `2025.07` が選択されていれば、日本語版の翻訳時点に比較的近い環境でコードを実行可能です。
+> 
+> <img src="colab_runtime.png" width="500">
+> 
 
 ----
 
